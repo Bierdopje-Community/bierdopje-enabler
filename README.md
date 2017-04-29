@@ -4,7 +4,7 @@ Enables the undocumented features on Bierdopje.com (plus a few bonuses)
 Enjoy.
 <BR/><BR/>
 Version <strong>3.1</strong><BR/>
-<u>Note that this project has been abandoned and is only here for reference.</u> Feel free to contact <a href="https://github.com/TomONeill" target="_blank">TomONeil</a> anyways.
+<u>Note that this project has been abandoned and is only here for reference.</u> Feel free to contact <a href="https://github.com/TomONeill" target="_blank">TomONeill</a> anyways.
 
 <A HREF="https://github.com/Bierdopje-Community/bierdopje-enabler/raw/master/bierdopje-enabler-latest.user.js">INSTALL</A>
 
