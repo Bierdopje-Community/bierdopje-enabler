@@ -22,7 +22,7 @@ This repository contains a userscript for Greasemonkey and Tampermonkey that ena
 (Also known as feature bugfixes)
 - Highlights the "All" button on the all shows page (<A href="https://github.com/Bierdopje-Community/bierdopje-enabler/raw/master/screenshots/bugfix_all_shows_button.jpg" target="_blank">Screenshot</A>)
 - Usersearch is back (<A href="https://github.com/Bierdopje-Community/bierdopje-enabler/raw/master/screenshots/usersearch.jpg" target="_blank">Screenshot</A>)
-- Enlarged the input fields on the edit profile page (<A href="https://github.com/Bierdopje-Community/bierdopje-enabler/raw/master/screenshots/change_profile_settings.jpg" target="_blank">Screenshot</A>)
+- Enlarged the input fields on the edit profile page (<A href="https://github.com/Bierdopje-Community/bierdopje-enabler/raw/master/screenshots/change_profile_settings.png" target="_blank">Screenshot</A>)
 
 # Changelog
 <A HREF="https://raw.githubusercontent.com/Bierdopje-Community/bierdopje-enabler/master/changelog.txt">View changelog</A>
